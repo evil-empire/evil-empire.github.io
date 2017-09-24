@@ -1,0 +1,33 @@
+{
+  "name": "b-malone.github.io",
+  "version": "1.0.1",
+  "description": "GitHub User Profile page for Bailey Malone.",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-aria": "^1.6.6",
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-malone/b-malone.github.io.git"
+  },
+  "keywords": [
+    "github.io",
+    "profile",
+    "b-malone"
+  ],
+  "author": "Bailey Malone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b-malone/b-malone.github.io/issues"
+  },
+  "homepage": "https://github.com/b-malone/b-malone.github.io#readme"
+}
